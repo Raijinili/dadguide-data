@@ -78,7 +78,7 @@ class EnLsTextConverter(LsTextConverter, EnBaseTextConverter):
         71: 'Chrono Ma:Gia (GH) Collab',
         72: 'Seventh Rebirth (GH) Collab',
         73: 'Calcio Fantasista (GH) Collab',
-        74: 'Power Pro Collab',
+        74: 'Power Pros Collab',
         75: 'Gintama Collab',
         76: 'Sword Art Online Collab',
         77: 'Kamen Rider Collab',
