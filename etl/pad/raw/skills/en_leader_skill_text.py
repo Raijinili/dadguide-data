@@ -93,6 +93,7 @@ class EnLsTextConverter(LsTextConverter, EnBaseTextConverter):
         86: 'Power Rangers',
         87: 'Fujimi Fantasia',
         88: 'Shinkalion',
+        89: 'Yu-Gi-Oh',
         10001: 'Dragonbounds & Dragon Callers',
     }
 
